@@ -24,4 +24,4 @@ A proposta do projeto é uma aplicação que possa ligar os orfanatos e as pesso
 
 ---
 
-Desenvolvido por Raiana Ecker
+Desenvolvido por Raiana Ecker ❤
