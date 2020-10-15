@@ -8,7 +8,7 @@ A proposta do projeto é uma aplicação que possa ligar os orfanatos e as pesso
 ## Prévia 
 
 <p align="center">
-  <img src="https://i.postimg.cc/6BQcJkNy/happy.png" >
+  <img src="https://i.postimg.cc/JmQ9SMMb/happy.png" >
 </p>
 
 ---
