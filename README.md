@@ -19,8 +19,9 @@ A proposta do projeto é uma aplicação que possa ligar os orfanatos e as pesso
 - CSS
 - JavaScript
 - Node.js 
+- Handlebars
 - SQLite 
 
 ---
 
-Desenvolvido por Raiana Ecker ❤
+Desenvolvido por Raiana Ecker
