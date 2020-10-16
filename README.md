@@ -19,7 +19,6 @@ A proposta do projeto é uma aplicação que possa ligar os orfanatos e as pesso
 - CSS
 - JavaScript
 - Node.js 
-- Nunjucks 
 - SQLite 
 
 ---
